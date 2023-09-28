@@ -17,11 +17,11 @@
     "moduleResolution": "node",
     "importHelpers": true,
     "target": "es5" ,
-    "module": "es2015",
+    "module": "esnext",
     "useDefineForClassFields": false,
     "lib": [
       "es5",
-      "es2015",
+      "esnext",
       "dom"
     ]
   },
