@@ -19,9 +19,7 @@
           "options": {
             "customWebpackConfig":{
               "path": "./webpack.custom.js"
-           },"customWebpackConfig":{
-            "path": "./webpack.custom.js"
-         },
+           },
            "indexTransform": "./index-html-transform.js",
 
             "outputPath": "dist/testapp",
